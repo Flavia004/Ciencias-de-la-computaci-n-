@@ -1,2 +1,2 @@
 # Ciencias-de-la-computaci-n-
-Pruebas 
+Pruebas de algoritmo 
